@@ -35,14 +35,26 @@ rtp://233.50.200.133:5140
 rtp://233.50.201.192:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
 rtp://233.50.200.113:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 rtp://233.50.201.63:5140
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
-rtp://233.50.202.102:5140
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视4K.png" group-title="4K超高清",广东卫视4K
-rtp://233.50.202.101:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
 rtp://233.50.202.100:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视4K.png" group-title="4K超高清",广东卫视4K
+rtp://233.50.202.101:5140
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
+rtp://233.50.202.102:5140
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="4K超高清",浙江卫视4K
+rtp://233.50.202.104:5140
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="4K超高清",东方卫视4K
+rtp://233.50.202.105:5140
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖南卫视.png" group-title="4K超高清",湖南卫视4K
+rtp://233.50.202.106:5140
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江苏卫视.png" group-title="4K超高清",江苏卫视4K
+rtp://233.50.202.107:5140
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/四川卫视.png" group-title="4K超高清",四川卫视4K
+rtp://233.50.202.109:5140
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="4K超高清",山东卫视4K
+rtp://233.50.202.108:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/欢笑剧场4K.png" group-title="4K超高清",欢笑剧场4K
 rtp://233.50.200.52:5140
 #EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-1
@@ -102,39 +114,37 @@ rtp://233.50.200.136:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/云南卫视.png" group-title="卫视",云南卫视
 rtp://233.50.200.115:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/吉林卫视.png" group-title="卫视",吉林卫视
-rtp://233.50.202.42:5140
+rtp://233.50.200.164:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/三沙卫视.png" group-title="卫视",三沙卫视
 rtp://233.50.200.175:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 rtp://233.50.201.148:5140
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
-rtp://233.50.200.166:5140
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/哈哈炫动.png" group-title="卫视",哈哈炫动
-rtp://233.50.200.167:5140
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV1.png" group-title="卫视",中国教育1台
-rtp://233.50.200.169:5140
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV4.png" group-title="卫视",中国教育4台
-rtp://233.50.200.162:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/青海卫视.png" group-title="卫视",青海卫视
 rtp://233.50.201.65:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/西藏卫视.png" group-title="卫视",西藏卫视
-rtp://233.50.201.70:5140
+rtp://233.50.202.43:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/陕西卫视.png" group-title="卫视",陕西卫视
 rtp://233.50.201.59:5140
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/兵团卫视.png" group-title="卫视",兵团卫视
-rtp://233.50.201.72:5140
+rtp://233.50.202.44:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山西卫视.png" group-title="卫视",山西卫视
 rtp://233.50.201.51:5140
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-rtp://233.50.201.57:5140
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/延边卫视.png" group-title="卫视",延边卫视
-rtp://233.50.200.184:5140
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
-rtp://233.50.201.73:5140
+rtp://233.50.202.45:5140
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/新疆卫视.png" group-title="卫视",新疆卫视
+rtp://233.50.202.46:5140
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV1.png" group-title="卫视",中国教育1台
+rtp://233.50.200.169:5140
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV4.png" group-title="卫视",中国教育4台
+rtp://233.50.200.174:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰中文.png" group-title="卫视",凤凰中文
 rtp://233.50.202.35:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰资讯.png" group-title="卫视",凤凰资讯
 rtp://233.50.202.36:5140
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
+rtp://233.50.202.33:5140
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
+rtp://233.50.201.73:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="国际",CGTN
 rtp://233.50.201.126:5140
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN西班牙语.png" group-title="国际",CGTN西班牙语
@@ -157,7 +167,7 @@ rtp://233.50.201.136:5140
 rtp://233.50.201.137:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江少儿.png" group-title="地方",浙江少儿
 rtp://233.50.201.138:5140
-#EXTINF:-1 tvg-id="之江记录" tvg-name="之江记录" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/之江记录.png" group-title="地方",之江记录
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/之江纪录.png" group-title="地方",之江纪录
 rtp://233.50.202.25:5140
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州综合.png" group-title="地方",杭州1综合
 rtp://233.50.201.173:5140
@@ -171,9 +181,9 @@ rtp://233.50.201.176:5140
 rtp://233.50.201.177:5140
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州导视.png" group-title="地方",杭州导视
 rtp://233.50.201.182:5140
-#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/nan" group-title="地方",临平新闻
+#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="" group-title="地方",临平新闻
 rtp://233.50.202.32:5140
-#EXTINF:-1 tvg-id="余杭新闻" tvg-name="余杭新闻" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/nan" group-title="地方",余杭新闻
+#EXTINF:-1 tvg-id="余杭新闻" tvg-name="余杭新闻" tvg-logo="" group-title="地方",余杭新闻
 rtp://233.50.201.159:5140
 #EXTINF:-1 tvg-id="宁波TV1" tvg-name="宁波TV1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/宁波新闻综合.png" group-title="地方",宁波1新闻
 rtp://233.50.201.168:5140
@@ -221,13 +231,13 @@ rtp://233.50.201.187:5140
 rtp://233.50.201.188:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
 rtp://233.50.201.109:5140
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="其他",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
 rtp://233.50.202.26:5140
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="其他",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="付费",睛彩篮球
 rtp://233.50.202.27:5140
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩青少.png" group-title="其他",睛彩青少
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩青少.png" group-title="付费",睛彩青少
 rtp://233.50.202.28:5140
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="其他",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="付费",睛彩广场舞
 rtp://233.50.202.29:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其他",东方财经
 rtp://233.50.200.177:5140
@@ -243,7 +253,7 @@ rtp://233.50.201.80:5140
 rtp://233.50.201.81:5140
 #EXTINF:-1 tvg-id="浙江音乐调频" tvg-name="浙江音乐调频" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江音乐调频.png" group-title="广播",浙江音乐调频
 rtp://233.50.201.82:5140
-#EXTINF:-1 tvg-id="浙江交通之声" tvg-name="浙江交通之声" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江交通之声.png" group-title="广播",第一财经
+#EXTINF:-1 tvg-id="浙江交通之声" tvg-name="浙江交通之声" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江交通之声.png" group-title="广播",浙江交通之声
 rtp://233.50.201.83:5140
 #EXTINF:-1 tvg-id="浙江旅游之声" tvg-name="浙江旅游之声" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江旅游之声.png" group-title="广播",浙江旅游之声
 rtp://233.50.201.84:5140
